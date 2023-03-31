@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: plum;
+}
+header p{
+    text-align: center;
+    font-size: 25px;
+}
+.pos{
+    padding: 5px 5px 5px 5px;
+    margin:5px 5px 5px 5px;
+}
+h1 img{
+    height: 200px;
+    width: 200px;
+}
+ main p{
+    text-align: center;
+    font-size: 20px;
+}
+.text1{
+    color: red;
+    text-align: center;
+    background-color: plum;
+    padding: 10px 10px 10px 10px;
+    border-radius: 30px;
+}
+.text2{
+    background-color: plum;
+    color:black;
+}
+.grafik{
+    font-size: 30px;
+}
+ul{
+    border: 10px solid pink;
+    font-size: 20px;
+    
+}
+footer{
+    background-color: plum;
+    padding: 10px 10px 10px 10px;
+}
+footer p{
+    background-color: white;
+    padding: 5px 5px 5px 5px;
+}
